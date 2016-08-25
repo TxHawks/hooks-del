@@ -3,5 +3,8 @@
   "b": true,
   "c": true,
   "d": false,
-  "e": "aaaa"
+  "e": "aaaa",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
