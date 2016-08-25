@@ -5,6 +5,7 @@
   "d": false,
   "e": "aaaa",
   "f": "a",
+  "g": false,
   "devDependencies": {
     "gulp": "^3.9.1"
   }
