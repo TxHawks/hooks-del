@@ -1,6 +1,17 @@
 {
+  "change": "b",
   "a": false,
   "b": true,
   "c": true,
-  "d": "kfj"
+  "d": "kfj",
+  "d": false,
+  "e": "aadaaa",
+  "f": "a",
+  "g": false,
+  "h": false,
+  "i": false,
+  "j": 1,
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
