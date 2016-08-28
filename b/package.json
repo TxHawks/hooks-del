@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
   "change": "t",
+||||||| merged common ancestors
+  "change": "b",
+=======
+  "change": "c",
+>>>>>>> origin/master
   "a": false,
   "b": true,
   "c": true,
